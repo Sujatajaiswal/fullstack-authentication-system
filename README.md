@@ -31,6 +31,4 @@ Security
 bcrypt.js for password hashing
 JSON Web Token (JWT) for authentication
 
-bcrypt.js for password hashing
 
-JSON Web Token (JWT) for authentication
